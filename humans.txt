@@ -4,6 +4,18 @@
 	Twitter: @mecmaster
 	Facebook: fb.com/oleksandr.dzyuba
 	From: Kyiv, Ukraine
+	
+	CMO: Marharyta Rimek
+	City/Country: Toronto/Canada
+
+	COO: Pavlo Fylonenko
+	City/Country: Toronto/Canada
+
+	CTO: Bohdan Mailov
+	City/Country: Kiev/Ukraine
+
+	CRO: Vasyl Lupynos
+	City/Country: Kiev/Ukraine
 
 	CTO, founder: Alex Troush
 	Twitter: @Troush69
